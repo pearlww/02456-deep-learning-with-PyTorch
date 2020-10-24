@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
+./6_Mini_Project/data.pickle
